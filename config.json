@@ -1,0 +1,17 @@
+{
+    "facebookAccount": {
+		"email": "",
+		"password": "",
+		"2FASecret": ""
+		},
+    "language": "en",
+    "nickNameBot": "ZeroBot",
+    "timeZone": "Asia/Ho_Chi_Minh",
+    "adminBot": [],
+    "adminOnly": {
+		"enable": false,
+		"ignoreCommand": []
+	},
+    "prefix": "\\" 
+
+}
