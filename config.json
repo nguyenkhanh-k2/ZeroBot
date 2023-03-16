@@ -1,17 +1,17 @@
 {
+    "DeveloperMode": true,
     "facebookAccount": {
-		"email": "",
-		"password": "",
-		"FASecret": ""
-		},
+        "email": "",
+        "password": "",
+        "FASecret": ""
+    },
     "language": "en",
     "nickNameBot": "ZeroBot",
     "timeZone": "Asia/Ho_Chi_Minh",
     "adminBot": [],
     "adminOnly": {
-		"enable": false,
-		"ignoreCommand": []
-	},
-    "prefix": "\\" 
-
+        "enable": false,
+        "ignoreCommand": []
+    },
+    "prefix": "\\"
 }
